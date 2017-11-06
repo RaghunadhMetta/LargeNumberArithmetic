@@ -1,6 +1,5 @@
 // Sample code for Level 1 driver for lp1
 
-// Change following line to your group number
 
 public class LP1L1 {
     public static void main(String[] args) throws Exception {
