@@ -1,8 +1,6 @@
 
-// Starter code for lp1.
 
-// Change following line to your group number
-// Changed type of base to long: 1:15 PM, 2017-09-08.
+
 
 import java.util.Iterator;
 import java.util.ArrayList;
