@@ -1,9 +1,5 @@
-Authors 	: Abhitej Boorla
-  			: Anvesh Mandanapu
- 			: Chandrika Cherukuri
- 			: Raghunadh Metta
-
-1) Num.java contains add, subtract, product, power methods of Level 1 and divide, mod, squareRoot and power methods of Level 2 and the helper methods for base conversion.
+This project is developed to perform arithmetic operations on reallly large numbers.
+1) Num.java contains add, subtract, product, power methods and divide, mod, squareRoot and the helper methods for base conversion.
 
 
 Helper functions:
@@ -17,7 +13,3 @@ Helper functions:
 
 
 
-2) LP1L1.java is a driver program where the methods of Num.java (Level 1) are called.
-
-
-3) LP2L2.java is a driver program where the methods of Num.java (Level 2) are called.
